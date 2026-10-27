@@ -1,0 +1,9 @@
+# Extra packages the original notebooks import. Not needed for demo.py.
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pymysql
+pymongo
+matplotlib
+seaborn
+folium
